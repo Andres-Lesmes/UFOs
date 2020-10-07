@@ -10,3 +10,4 @@
 
 
 ## Summary
+  One major drawback is that we only have data of a few sightings between 1/1/2010 and 1/13/2010; so the search is very reduced. For further development we should include a drop down menu on each search box so users can choose from the available searching options on each filter box so they would not introduce filter criteria that might not exist in the data. For example, a date in year 1998. Also, we should include more details in the article about the limitations of the data available. For example, the dates of sightings available to be searched. 
